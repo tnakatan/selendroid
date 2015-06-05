@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="FullscreenTheme">
+    <style name="FullscreenTheme" parent="@android:style/Theme.Holo.NoActionBar.Fullscreen">
     </style>
 
 </resources>
